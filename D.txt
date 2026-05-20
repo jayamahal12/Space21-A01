@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-Bisleri if Good water for health.
-It contains Minerals like iron potassium.
-=======
 Kinley if Good water for health.
 It contains Minerals like sodium potassium.
->>>>>>> e7fe68bd52a408539da705eb21756360d3b0c572
